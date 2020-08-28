@@ -14,7 +14,7 @@
  * @var bool
  */
 define('WP_USE_THEMES', true);
-define('WP_ALERTE', 'HELLO TAHA');
+define('WP_ALERTE', 'HELLO TAHA Bonjour');
 echo WP_ALERTE;
 /** Loads the WordPress Environment and Template */
 require('./wp-blog-header.php');
